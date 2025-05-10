@@ -1,0 +1,34 @@
+
+Resumen del proyecto de dashboard (React + Tailwind CSS):
+
+1. Sidebar:
+- Versión vertical para desktop (barra negra con íconos blancos y logotipo "F.").
+- Íconos agrandados y centrados verticalmente.
+- Versión móvil con barra inferior.
+
+2. Header (Hello Josh!):
+- Tarjeta con saludo e ilustración a la derecha (imagen sobrepasa el fondo gris).
+- Input de búsqueda, campana de notificaciones, y foto de perfil.
+- Sección de estadísticas (Courses Completed / In Progress).
+- Alineado con el margen izquierdo del resto del contenido.
+
+3. Current Course:
+- Tarjeta con bandera, título del curso, autor, porcentaje de avance y botón "Continue".
+- Flechas (left/right) implementadas con imágenes y sacadas del contenedor gris, con mayor tamaño.
+
+4. Course List:
+- Tabs de navegación: All Courses, The Newest, Top Rated, Most Popular.
+- Tarjetas con íconos, nombre, autor, duración, rating y botón "View Course".
+- Alineado con el margen izquierdo global.
+- "View course" movido hacia la izquierda para reducir espacio excesivo.
+
+5. Ajustes de diseño generales:
+- Correcciones de márgenes y paddings para igualar espaciado del diseño Figma original.
+- Ancho del contenido limitado (ej. max-w-[65%]) para mejor alineación visual.
+- Estilos responsivos para pantallas grandes y móviles.
+
+Notas:
+- Se usaron íconos de React Icons (FaBell, FaHome, etc.) y se reemplazaron algunos por imágenes (flechas).
+- Las rutas de imagen se colocaron como "/nombre.png", asumir que están en /public.
+
+Fin del resumen.
