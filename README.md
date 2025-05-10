@@ -38,10 +38,3 @@ This project was developed using modern web development tools. Every part of the
 6. **Complete front-end logic:** Though it’s a frontend app, it behaves like a real full-featured learning platform.
 
 ---
-
-## ▶️ How to run the project
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/rampyjs/dashboard-next.git
